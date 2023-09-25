@@ -1,0 +1,5 @@
+python3-http-hmac (2.0.1) stable; urgency=medium
+
+  * Initial release.
+
+ -- John Franklin <franklin@sentaidigital.com>  Fri, 25 Sep 2023 12:51:44 -0400
